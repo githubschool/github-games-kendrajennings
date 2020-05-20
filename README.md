@@ -2,10 +2,7 @@
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
-You can play the game at: 
-githubschool /
-github-games-kendrajennings 
-
+You can play the game at: https://githubschool.github.io/github-games-kendrajennings/
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
